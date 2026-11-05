@@ -204,3 +204,11 @@ footer {
         justify-content: center;
     }
 }
+/* IMPROVED CARD INTERACTION */
+.card {
+    cursor: pointer;
+}
+
+.card:hover h3 {
+    color: #c4b5fd;
+}
